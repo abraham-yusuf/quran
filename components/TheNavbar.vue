@@ -152,7 +152,7 @@
           <p>
             <span class="font-bold">Buy me a Coffee</span>
             <br />
-            <span class="text-sm text-white">Support developer pasirandu</span>
+            <span class="text-sm text-white">Support Developer</span>
           </p>
         </a>
       </div>
