@@ -12,15 +12,10 @@
     
     <p class="italic">
       "Aplikasi Al-Qur'an Online Digital ini dibuat untuk memudahkan dalam belajar, mendengarkan maupun membaca Ayat Ayat Suci Al-Qur'an
-      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk warga Kp. Pasirandu RT003 RW002 Desa Kadu Kecamatan Curug Kab. Tangerang Banten 15810."
+      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk seluruh santri pondok pesantren Hidayatul Hikmah, Kp. Sukajami RT002 RW003 Desa Sukatani Kecamatan Cisoka Kab. Tangerang Banten 15810."
     </p>
     <p><a href="https://www.abrahamyusuf.my.id/" target="_blank">Abraham Yusuf - Ibnu Arman (Putra Arman)</a></p>
     
-    <p class="italic">
-      "<strong>Abraham Yusuf</strong>, seorang santri yang belajar di akademisi gramatika linguistic arabic of Hidayatul Hikmah (Pon-Pes Salafiyah / Kobong - Pesanggrahan , Cisoka Tangerang).
-      seorang santri salaf yang juga aktif dalam mempelajari ilmu bahasa arab 12 Pan di kobong, selain itu saya juga tertarik dalam bidang ilmu teknologi komputer baik jaringan / Network, Web Developer, UI/UX, Designer, Android Developer Advocate, Enthusiast Crypto Decentralized, dan juga seorang blogger/penulis serta seorang youtubers yang aktif memperkenalkan teknologi kepada santri di channel nya (SSA) Santri Salafi Academy."
-    </p>
-    <p><a href="https://www.abrahamyusuf.my.id/" target="_blank">Abraham Yusuf</a></p>
 
     <div class="flex">
       <section class="icons mt-10 mr-12">
