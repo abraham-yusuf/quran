@@ -12,7 +12,7 @@
     
     <p class="italic">
       "Aplikasi Al-Qur'an Online Digital ini dibuat untuk memudahkan dalam belajar, mendengarkan maupun membaca Ayat Ayat Suci Al-Qur'an
-      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk seluruh santri pondok pesantren Hidayatul Hikmah, Kp. Sukajami RT002 RW003 Desa Sukatani Kecamatan Cisoka Kab. Tangerang Banten 15810."
+      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk seluruh santri pondok pesantren Hidayatul Hikmah, Kp. Sukajami RT002 RW003 Desa Sukatani Kecamatan Cisoka Kab. Tangerang Banten 15730."
     </p>
     <p><a href="https://www.abrahamyusuf.my.id/" target="_blank">Abraham Yusuf - Ibnu Arman (Putra Arman)</a></p>
     
