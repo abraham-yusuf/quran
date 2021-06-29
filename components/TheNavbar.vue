@@ -18,7 +18,7 @@
       </button>
     </div>
     <div class="flex items-center">
-      <h1 class="dark:text-gray-400 text-lg font-semibold">Al-Qur'an Online</h1>
+      <h1 class="dark:text-gray-400 text-lg font-semibold">Qur'an Pon-Pes Al-Madani</h1>
     </div>
 
     <transition
@@ -82,7 +82,7 @@
               ></path>
             </svg>
           </span>
-          <span>Home</span></span
+          <span>Home Qur'an</span></span
         >
       </nuxt-link>
       <nuxt-link to="/about">
@@ -104,30 +104,33 @@
               ></path>
             </svg>
           </span>
-          <span>Tentang</span></span
+          <span>Tentang Aplikasi Qur'an</span></span
         >
       </nuxt-link>
 
-      <a href="https://github.com/abraham-yusuf" target="_blank">
+      <a href="https://ponpes-almadani.my.id/">
         <span
           @click="isOpen = false"
           class="flex items-center p-4 cursor-pointer"
           ><span class="mr-2">
             <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="currentColor"
-              class="bi bi-code-slash h-6 w-6"
-              viewBox="0 0 16 16"
+              fill="none"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              class="w-6 h-6"
             >
               <path
-                d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z"
-              />
+                d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
+              ></path>
             </svg>
           </span>
-          <span>Source Code</span></span
+          <span>HOME Pon-Pes Al-Madani</span></span
         >
       </a>
-      <div class="fixed bottom-0 w-full">
+      <!-- <div class="fixed bottom-0 w-full">
         <label for="theme" class="ml-3">Tema</label>
         <select
           v-model="$colorMode.preference"
@@ -155,7 +158,7 @@
             <span class="text-sm text-white">Support Developer</span>
           </p>
         </a>
-      </div>
+      </div> -->
     </aside>
   </nav>
 </template>

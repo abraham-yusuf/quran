@@ -1,6 +1,6 @@
 <template>
   <div class="about md:mt-10 mt-5 dark:text-gray-300">
-    <h1 class="md:text-4xl text-3xl mb-3">Tentang</h1>
+    <h1 class="md:text-4xl text-3xl mb-3">Tentang Aplikasi Qur'an Al-Madani</h1>
 
     <p class="italic">
       "Dan setiap umat mempunyai kiblat yang dia menghadap kepadanya. Maka
@@ -11,10 +11,10 @@
     <p>-QS Al-Baqarah: 148</p>
     
     <p class="italic">
-      "Aplikasi Al-Qur'an Online Digital ini dibuat untuk memudahkan dalam belajar, mendengarkan maupun membaca Ayat Ayat Suci Al-Qur'an
-      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk seluruh santri pondok pesantren Hidayatul Hikmah, Kp. Sukajami RT002 RW003 Desa Sukatani Kecamatan Cisoka Kab. Tangerang Banten 15730."
+      "Aplikasi Al-Qur'an Online Digital ini dibuat untuk memudahkan para santri dan santriwati pondon pesantren Al-Madani dalam belajar, menghafal dan mendengarkan maupun membaca Ayat Ayat Suci Al-Qur'an
+      Dimana saja dan kapan saja, harapannya mudah mudahan bermanfaat khususnya untuk pembuat maupun untuk seluruh santri putra dan putri pondok pesantren Al-Madani, Kp. Solear Kab. Tangerang Provinsi Banten."
     </p>
-    <p><a href="https://www.abrahamyusuf.my.id/" target="_blank">Abraham Yusuf - Ibnu Arman (Putra Arman)</a></p>
+    <p><a href="https://ponpes-almadani.my.id/">Copyright 2021 Pondok Pesantren Al-Madani</a></p>
     
 
     <div class="flex">
@@ -47,7 +47,7 @@
     </div>
 
     <Footer class="fixed bottom-0 left-0 right-0 mb-24" />
-    <p class="fixed bottom-0 left-0 text-center right-0 mb-32 text-gray-500 text-sm">(+6285155170499)</p>
+    <p class="fixed bottom-0 left-0 text-center right-0 mb-32 text-gray-500 text-sm">(Pon-Pes Al-Madani)</p>
   </div>
 </template>
 

@@ -4,16 +4,16 @@ export default {
   ssr: true,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Al-Quran Online - Baca Quran Online dimana saja',
+    title: "Al-Quran Online - Pon-Pes Al-Madani",
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Baca Quran Online dimana saja' },
+      { hid: 'description', name: 'description', content: 'Al-Quran Online - Pon-Pes Al-Madani' },
       { hid: 'author', name: 'author', content: 'Abraham Yusuf' },
-      { hid: 'og:title', property: 'og:title', content: "Al-Qur'an" },
-      { hid: 'og:description', property: 'og:description', content: "Al-Qur'an Online - Baca Quran Online dimana saja" },
+      { hid: 'og:title', property: 'og:title', content: "Qur'an Al-Madani" },
+      { hid: 'og:description', property: 'og:description', content: "Al-Qur'an Online - Pon-Pes Al-Madani" },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://alquran-pasirandu-digital.vercel.app/' },
+      { hid: 'og:url', property: 'og:url', content: 'https://ponpes-almadani.my.id/al-quran' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/icon.png' }
@@ -59,9 +59,9 @@ export default {
       source: 'static/icon.png'
     },
     manifest: {
-      name: "Al-Qur'an",
-      short_name: "Al-Qur'an",
-      description: "Baca Qur'an Online dimana saja",
+      name: "Qur'an Al-Madani",
+      short_name: "Qur'an Al-Madani",
+      description: "Al-Qur'an Online - Pon-Pes Al-Madani",
       lang: 'id',
     }
   },
